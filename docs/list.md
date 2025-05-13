@@ -240,8 +240,7 @@ ioccheck
 iodine  
 iotop  
 ipcalc  
-iperf2  
-iproute  
+iperf2    
 iproute2  
 ipscan  
 iputils  

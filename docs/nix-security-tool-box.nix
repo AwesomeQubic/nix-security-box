@@ -242,7 +242,6 @@
     iotop
     ipcalc
     iperf2
-    iproute
     iproute2
     ipscan
     iputils
