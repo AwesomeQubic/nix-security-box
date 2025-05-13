@@ -394,7 +394,6 @@
     python3Packages.karton-core
     python3Packages.lsassy
     python3Packages.malduck
-    python3Packages.patator
     python3Packages.pyi2cflash
     python3Packages.pypykatz
     python3Packages.pyspiflash

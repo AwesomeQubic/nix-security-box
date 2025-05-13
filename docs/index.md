@@ -20,7 +20,6 @@ Tool overview
 - [ncrack](https://search.nixos.org/packages?channel=unstable&show=ncrack&type=packages&query=ncrack)  
 - [nth](https://search.nixos.org/packages?channel=unstable&show=nth&type=packages&query=nth)  
 - [phrasendrescher](https://search.nixos.org/packages?channel=unstable&show=phrasendrescher&type=packages&query=phrasendrescher)  
-- [python3Packages.patator](https://search.nixos.org/packages?channel=unstable&show=python3Packages.patator&type=packages&query=python3Packages.patator)  
 - [thc-hydra](https://search.nixos.org/packages?channel=unstable&show=thc-hydra&type=packages&query=thc-hydra)  
 - [truecrack](https://search.nixos.org/packages?channel=unstable&show=truecrack&type=packages&query=truecrack)  
 
