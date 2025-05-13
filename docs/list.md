@@ -514,7 +514,6 @@ udptunnel
 udpx  
 uncover  
 unicorn  
-unicorn-emu  
 unrar  
 unzip  
 urlfinder  
