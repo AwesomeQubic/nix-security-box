@@ -298,7 +298,6 @@ Tool overview
 - [osv-detector](https://search.nixos.org/packages?channel=unstable&show=osv-detector&type=packages&query=osv-detector)  
 - [packj](https://search.nixos.org/packages?channel=unstable&show=packj&type=packages&query=packj)  
 - [pip-audit](https://search.nixos.org/packages?channel=unstable&show=pip-audit&type=packages&query=pip-audit)  
-- [python310Packages.safety](https://search.nixos.org/packages?channel=unstable&show=python310Packages.safety&type=packages&query=python310Packages.safety)  
 - [secretscanner](https://search.nixos.org/packages?channel=unstable&show=secretscanner&type=packages&query=secretscanner)  
 - [skjold](https://search.nixos.org/packages?channel=unstable&show=skjold&type=packages&query=skjold)  
 - [tell-me-your-secrets](https://search.nixos.org/packages?channel=unstable&show=tell-me-your-secrets&type=packages&query=tell-me-your-secrets)  

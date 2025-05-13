@@ -384,7 +384,6 @@ mkShell {
     pwndbg
     pwntools
     pysqlrecon
-    python310Packages.safety
     python3Packages.angr
     python3Packages.angrop
     binwalk
