@@ -9,7 +9,6 @@
     linux-exploit-suggester
     lynis
     safety-cli
-    tracee
     vulnix
   ];
 }

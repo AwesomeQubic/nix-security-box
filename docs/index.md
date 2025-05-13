@@ -360,7 +360,6 @@ Tool overview
 - [linux-exploit-suggester](https://search.nixos.org/packages?channel=unstable&show=linux-exploit-suggester&type=packages&query=linux-exploit-suggester)  
 - [lynis](https://search.nixos.org/packages?channel=unstable&show=lynis&type=packages&query=lynis)  
 - [safety-cli](https://search.nixos.org/packages?channel=unstable&show=safety-cli&type=packages&query=safety-cli)  
-- [tracee](https://search.nixos.org/packages?channel=unstable&show=tracee&type=packages&query=tracee)  
 - [vulnix](https://search.nixos.org/packages?channel=unstable&show=vulnix&type=packages&query=vulnix)  
 
 # Cloud

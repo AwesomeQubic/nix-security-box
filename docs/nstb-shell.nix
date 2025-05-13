@@ -492,7 +492,6 @@ mkShell {
     tlsinfo
     tlsx
     tmux
-    tracee
     traitor
     trivy
     troubadix

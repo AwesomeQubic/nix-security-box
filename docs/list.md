@@ -490,8 +490,7 @@ thc-hydra
 theharvester  
 tlsinfo  
 tlsx  
-tmux  
-tracee  
+tmux    
 traitor  
 trivy  
 troubadix  

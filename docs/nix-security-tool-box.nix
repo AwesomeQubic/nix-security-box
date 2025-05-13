@@ -492,7 +492,6 @@
     tlsinfo
     tlsx
     tmux
-    tracee
     traitor
     trivy
     troubadix
