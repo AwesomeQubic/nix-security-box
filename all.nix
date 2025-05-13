@@ -1,4 +1,4 @@
-_: {
+pwndbg: _: {
   imports = [
     ./bluetooth.nix
     ./cloud.nix
@@ -15,7 +15,6 @@ _: {
     ./kubernetes.nix
     ./ldap.nix
     ./load-testing.nix
-    ./malware.nix
     ./misc.nix
     ./mobile.nix
     ./network.nix
@@ -34,4 +33,4 @@ _: {
     ./windows.nix
     ./wireless.nix
   ];
-}
+} // (import ./malware.nix pwndbg)

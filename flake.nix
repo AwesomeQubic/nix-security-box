@@ -1,7 +1,11 @@
 {
   description = "A very basic flake";
 
-  outputs = _: {
+  inputs = {
+    pwndbg.url = "github:pwndbg/pwndbg";
+  };
+
+  outputs = { self, pwndbg, ... }: {
     nixosModules = {
     all = import ./all.nix;
     bluetooth = import ./bluetooth.nix;
@@ -19,7 +23,7 @@
     kubernetes = import ./kubernetes.nix;
     ldap = import ./ldap.nix;
     load-testing = import ./load-testing.nix;
-    malware  = import ./malware.nix;
+    malware  = (import ./malware.nix pwndbg);
     misc = import ./misc.nix;
     mobile = import ./mobile.nix;
     network = import ./network.nix;
