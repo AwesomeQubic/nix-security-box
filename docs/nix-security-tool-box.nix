@@ -389,7 +389,7 @@
     python310Packages.safety
     python3Packages.angr
     python3Packages.angrop
-    python3Packages.binwalk
+    binwalk
     python3Packages.bleak
     python3Packages.can
     python3Packages.emv

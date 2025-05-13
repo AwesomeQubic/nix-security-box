@@ -340,7 +340,7 @@ Tool overview
 - [ioc-scan](https://search.nixos.org/packages?channel=unstable&show=ioc-scan&type=packages&query=ioc-scan)  
 - [pev](https://search.nixos.org/packages?channel=unstable&show=pev&type=packages&query=pev)  
 - [pwndbg](https://search.nixos.org/packages?channel=unstable&show=pwndbg&type=packages&query=pwndbg)  
-- [python3Packages.binwalk](https://search.nixos.org/packages?channel=unstable&show=python3Packages.binwalk&type=packages&query=python3Packages.binwalk)  
+- [binwalk](https://search.nixos.org/packages?channel=unstable&show=binwalk&type=packages&query=binwalk)  
 - [python3Packages.malduck](https://search.nixos.org/packages?channel=unstable&show=python3Packages.malduck&type=packages&query=python3Packages.malduck)  
 - [python3Packages.karton-core](https://search.nixos.org/packages?channel=unstable&show=python3Packages.karton-core&type=packages&query=python3Packages.karton-core)  
 - [python3Packages.unicorn](https://search.nixos.org/packages?channel=unstable&show=python3Packages.unicorn&type=packages&query=python3Packages.unicorn)  
