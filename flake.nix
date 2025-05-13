@@ -1,7 +1,8 @@
 {
   description = "A very basic flake";
-  
+
   outputs = _: {
+    nixosModules = {
     all = import ./all.nix;
     bluetooth = import ./bluetooth.nix;
     cloud = import ./cloud.nix;
@@ -36,5 +37,6 @@
     web = import ./web.nix;
     windows = import ./windows.nix;
     wireless = import ./wireless.nix;
+    };
   };
 }
