@@ -366,8 +366,7 @@ penelope
 pev  
 photon  
 phrasendrescher  
-picocom  
-pingu  
+picocom    
 pip-audit  
 pixiewps  
 pktgen  

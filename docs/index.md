@@ -555,7 +555,6 @@ Tool overview
 - [netexec](https://search.nixos.org/packages?channel=unstable&show=netexec&type=packages&query=netexec)  
 - [nload](https://search.nixos.org/packages?channel=unstable&show=nload&type=packages&query=nload)  
 - [nuttcp](https://search.nixos.org/packages?channel=unstable&show=nuttcp&type=packages&query=nuttcp)  
-- [pingu](https://search.nixos.org/packages?channel=unstable&show=pingu&type=packages&query=pingu)  
 - [putty](https://search.nixos.org/packages?channel=unstable&show=putty&type=packages&query=putty)  
 - [pwnat](https://search.nixos.org/packages?channel=unstable&show=pwnat&type=packages&query=pwnat)  
 - [responder](https://search.nixos.org/packages?channel=unstable&show=responder&type=packages&query=responder)  

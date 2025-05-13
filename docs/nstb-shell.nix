@@ -368,7 +368,6 @@ mkShell {
     photon
     phrasendrescher
     picocom
-    pingu
     pip-audit
     pixiewps
     pktgen

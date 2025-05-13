@@ -24,7 +24,6 @@
     netexec
     nload
     nuttcp
-    pingu
     putty
     pwnat
     responder
