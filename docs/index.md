@@ -375,7 +375,6 @@ Tool overview
 - [grimoire](https://search.nixos.org/packages?channel=unstable&show=grimoire&type=packages&query=grimoire)  
 - [imdshift](https://search.nixos.org/packages?channel=unstable&show=imdshift&type=packages&query=imdshift)  
 - [pacu](https://search.nixos.org/packages?channel=unstable&show=pacu&type=packages&query=pacu)  
-- [poutine](https://search.nixos.org/packages?channel=unstable&show=poutine&type=packages&query=poutine)  
 - [prowler](https://search.nixos.org/packages?channel=unstable&show=prowler&type=packages&query=prowler)  
 - [yatas](https://search.nixos.org/packages?channel=unstable&show=yatas&type=packages&query=yatas)  
 

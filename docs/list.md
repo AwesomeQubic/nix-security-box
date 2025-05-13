@@ -371,8 +371,7 @@ pip-audit
 pixiewps  
 pktgen  
 plecost  
-popeye  
-poutine  
+popeye    
 pre2k  
 prowler  
 proxify  
