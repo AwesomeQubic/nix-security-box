@@ -7,7 +7,7 @@
     abootimg
     above
     acltoolkit
-    acquire
+    python313Packages.acquire
     adenum
     adidnsdump
     adreaper

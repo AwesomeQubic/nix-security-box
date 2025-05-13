@@ -6,7 +6,7 @@
   environment.systemPackages = with pkgs; [
     afflib
     amoco
-    acquire
+    python313Packages.acquire
     dcfldd
     ddrescue
     dislocker

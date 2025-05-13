@@ -6,7 +6,7 @@ Full list
 abootimg  
 above  
 acltoolkit  
-acquire  
+python312Packages.acquire  
 adenum  
 adidnsdump  
 adreaper  
