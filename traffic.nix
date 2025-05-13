@@ -22,6 +22,5 @@
     termshark
     wireshark
     wireshark-cli
-    zeek
   ];
 }

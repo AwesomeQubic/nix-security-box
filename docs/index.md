@@ -427,7 +427,6 @@ Tool overview
 - [termshark](https://search.nixos.org/packages?channel=unstable&show=termshark&type=packages&query=termshark)  
 - [wireshark](https://search.nixos.org/packages?channel=unstable&show=wireshark&type=packages&query=wireshark)  
 - [wireshark-cli](https://search.nixos.org/packages?channel=unstable&show=wireshark-cli&type=packages&query=wireshark-cli)  
-- [zeek](https://search.nixos.org/packages?channel=unstable&show=zeek&type=packages&query=zeek)  
 
 # Smartcards
   

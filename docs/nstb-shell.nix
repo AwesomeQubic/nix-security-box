@@ -555,7 +555,6 @@ mkShell {
     yatas
     yersinia
     zap
-    zeek
     zellij
     zigpy-cli
     zkar
