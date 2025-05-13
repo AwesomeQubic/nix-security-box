@@ -17,7 +17,6 @@ Tool overview
 - [legba](https://search.nixos.org/packages?channel=unstable&show=legba&type=packages&query=legba)  
 - [medusa](https://search.nixos.org/packages?channel=unstable&show=medusa&type=packages&query=medusa)  
 - [nasty](https://search.nixos.org/packages?channel=unstable&show=nasty&type=packages&query=nasty)  
-- [ncrack](https://search.nixos.org/packages?channel=unstable&show=ncrack&type=packages&query=ncrack)  
 - [nth](https://search.nixos.org/packages?channel=unstable&show=nth&type=packages&query=nth)  
 - [phrasendrescher](https://search.nixos.org/packages?channel=unstable&show=phrasendrescher&type=packages&query=phrasendrescher)  
 - [thc-hydra](https://search.nixos.org/packages?channel=unstable&show=thc-hydra&type=packages&query=thc-hydra)  

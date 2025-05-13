@@ -315,8 +315,7 @@ nasty
 nbtscan  
 nbtscanner  
 nbutools  
-ncftp  
-ncrack  
+ncftp    
 net-snmp  
 netcat-gnu  
 netdiscover  

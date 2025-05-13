@@ -317,7 +317,6 @@ mkShell {
     nbtscanner
     nbutools
     ncftp
-    ncrack
     net-snmp
     netcat-gnu
     netdiscover

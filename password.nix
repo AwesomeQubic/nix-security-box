@@ -17,7 +17,6 @@
     legba
     medusa
     nasty
-    ncrack
     nth
     phrasendrescher
     thc-hydra
