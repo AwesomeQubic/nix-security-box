@@ -457,7 +457,6 @@ Tool overview
 - [dnsmon-go](https://search.nixos.org/packages?channel=unstable&show=dnsmon-go&type=packages&query=dnsmon-go)  
 - [dnsmonster](https://search.nixos.org/packages?channel=unstable&show=dnsmonster&type=packages&query=dnsmonster)  
 - [dnsrecon](https://search.nixos.org/packages?channel=unstable&show=dnsrecon&type=packages&query=dnsrecon)  
-- [dnstake](https://search.nixos.org/packages?channel=unstable&show=dnstake&type=packages&query=dnstake)  
 - [dnstracer](https://search.nixos.org/packages?channel=unstable&show=dnstracer&type=packages&query=dnstracer)  
 - [dnstwist](https://search.nixos.org/packages?channel=unstable&show=dnstwist&type=packages&query=dnstwist)  
 - [dnspeep](https://search.nixos.org/packages?channel=unstable&show=dnspeep&type=packages&query=dnspeep)  

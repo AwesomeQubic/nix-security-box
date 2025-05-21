@@ -11,7 +11,6 @@
     dnsmon-go
     dnsmonster
     dnsrecon
-    dnstake
     dnstracer
     dnstwist
     dnspeep

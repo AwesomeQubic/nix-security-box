@@ -127,7 +127,6 @@
     dnsmonster
     dnspeep
     dnsrecon
-    dnstake
     dnstop
     dnstracer
     dnstwist

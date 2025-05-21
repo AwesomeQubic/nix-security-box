@@ -126,7 +126,6 @@ dnsmon-go
 dnsmonster  
 dnspeep  
 dnsrecon  
-dnstake  
 dnstop  
 dnstracer  
 dnstwist  
